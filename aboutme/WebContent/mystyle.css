@@ -27,6 +27,11 @@
 }
 
 
+.image {
+	float : left;
+	margin-top : 1000px;
+	clear : both;
+}
 
 .button {
   border: none;
